@@ -1,0 +1,11 @@
+{
+    "name": "Geography/JapanesePrefectures",
+    "type": "library",
+    "description": "This module allows you to get information on Japanese Prefectures names. and region.",
+    "keywords": ["prefecture"],
+    "homepage": "https://github.com/kuzuha/Geography_JapanesePrefectures",
+    "license": "BSD-2",
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
