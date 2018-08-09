@@ -1,13 +1,12 @@
-#Geography_JapanesePrefectures
+# Geography_JapanesePrefectures
 
-##DESCRIPTION
-This module allows you to get information on Japanese Prefectures names. and region.
+## DESCRIPTION
+This module allows you to get information on Japanese Prefectures names and region.
 
-##SEE ALSO
-[Geography::JapanesePrefectures::Unicode]
-(http://search.cpan.org/~tokuhirom/Geography-JapanesePrefectures-0.10/lib/Geography/JapanesePrefectures/Unicode.pm)
+## SEE ALSO
+[Geography::JapanesePrefectures::Unicode](http://search.cpan.org/~tokuhirom/Geography-JapanesePrefectures-0.10/lib/Geography/JapanesePrefectures/Unicode.pm)
 
-##LICENSE
+## LICENSE
 Copyright (c) 2011, Kuzuha SHINODA
 All rights reserved.
 
