@@ -1,6 +1,7 @@
 <?php
+namespace Geography;
 
-class Geography_JapanesePrefectures
+class JapanesePrefectures
 {
     protected static $PREFECTURES = array(
         array(
